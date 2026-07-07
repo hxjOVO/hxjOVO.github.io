@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 560" role="img" aria-label="Nucleic Acids Research 2026 title page thumbnail">
+  <rect width="420" height="560" rx="18" fill="#ffffff"/>
+  <rect x="22" y="22" width="376" height="516" rx="12" fill="#fbfbfd" stroke="#d8d8dc"/>
+  <text x="54" y="76" fill="#0066cc" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Nucleic Acids Research</text>
+  <text x="54" y="110" fill="#6e6e73" font-family="Inter, Arial, sans-serif" font-size="14">2026 | 54(1) | gkaf1421</text>
+  <line x1="54" x2="366" y1="138" y2="138" stroke="#d8d8dc"/>
+  <text x="54" y="190" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="900">
+    <tspan x="54" dy="0">Mechanistic insights</tspan>
+    <tspan x="54" dy="34">into Lin28-dependent</tspan>
+    <tspan x="54" dy="34">oligo-uridylylation</tspan>
+    <tspan x="54" dy="34">of pre-let-7 by TUT4</tspan>
+  </text>
+  <text x="54" y="355" fill="#424245" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Han X, Yamashita S, Tomita K.</text>
+  <path d="M78 436c52-62 114 62 166 0s114 62 166 0" fill="none" stroke="#0066cc" stroke-width="6" stroke-linecap="round"/>
+  <path d="M78 468c52-62 114 62 166 0s114 62 166 0" fill="none" stroke="#2997ff" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+</svg>

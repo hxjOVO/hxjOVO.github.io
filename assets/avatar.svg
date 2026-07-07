@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Xiaojie Han avatar">
+  <defs>
+    <linearGradient id="bg" x1="98" x2="542" y1="72" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1d1d1f"/>
+      <stop offset="1" stop-color="#0066cc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(260 0 0 260 220 180)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="640" rx="52" fill="url(#bg)"/>
+  <rect width="640" height="640" rx="52" fill="url(#glow)"/>
+  <path d="M122 190h74l74 111 74-111h75L312 320l108 130h-76l-75-112-76 112h-74l108-130-105-130z" fill="#fff"/>
+  <path d="M436 190h58v260h-58V341H319v109h-58V190h58v102h117V190z" fill="#d7ebff" opacity=".96"/>
+  <path d="M96 512h448" stroke="#fff" stroke-opacity=".28" stroke-width="4" stroke-linecap="round"/>
+  <text x="320" y="562" fill="#fff" fill-opacity=".82" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">Xiaojie Han, Ph.D.</text>
+</svg>

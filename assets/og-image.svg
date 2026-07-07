@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Xiaojie Han website preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1200" y1="0" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fbfbfd"/>
+      <stop offset="1" stop-color="#eaf3ff"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="744" x2="1066" y1="160" y2="482" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1d1d1f"/>
+      <stop offset="1" stop-color="#0066cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1060" cy="78" r="210" fill="#0066cc" opacity=".08"/>
+  <circle cx="224" cy="570" r="260" fill="#0066cc" opacity=".06"/>
+  <text x="88" y="118" fill="#0066cc" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="3">RNA BIOLOGY</text>
+  <text x="88" y="235" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="900">Xiaojie Han, Ph.D.</text>
+  <text x="88" y="306" fill="#424245" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Postdoctoral Research Scientist</text>
+  <text x="88" y="358" fill="#6e6e73" font-family="Inter, Arial, sans-serif" font-size="29">Columbia University Irving Medical Center</text>
+  <text x="88" y="438" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">miRNA biogenesis | Lin28 / let-7 | TUT4</text>
+  <rect x="760" y="140" width="324" height="324" rx="38" fill="url(#mark)"/>
+  <text x="922" y="334" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="116" font-weight="900" text-anchor="middle">XH</text>
+  <path d="M760 508h324" stroke="#0066cc" stroke-width="6" stroke-linecap="round"/>
+</svg>
